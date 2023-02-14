@@ -1,7 +1,7 @@
 # Red Social API
 
 ### Url base: http://localhost:9000/api/v1
-### url dbDiagram:https://dbdiagram.io/d/63c8c2f2296d97641d7aa53b 
+### Url dbDiagram:https://dbdiagram.io/d/63c8c2f2296d97641d7aa53b 
 
 - /auth
 
@@ -38,11 +38,11 @@ example ecommerce: /product/:id/add-to-cart
 - [x] removePost
 
 ### Services Posts
-- [ ] getAllPosts
-- [ ] getPostById
-- [ ] postNewPost 
-- [ ] patchPost
-- [ ] deletePost
+- [x] getAllPosts
+- [x] getPostById
+- [x] postNewPost 
+- [x] patchPost
+- [x] deletePost
 
 
 
